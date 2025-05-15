@@ -1,0 +1,32 @@
+
+
+
+
+/*selector universal*/
+*{
+    background-color: blanchedalmond;
+}
+
+h1,h2,p {
+    background-color: red;
+    color:antiquewhite;
+}
+*/
+h2{
+    background-color: red;
+    color:antiquewhite;
+}
+*/
+/* selector de id */
+#hero{
+    background-color: black;
+    color:blue;
+}
+
+/* selector de clase */
+.post {
+    font-family: monospace;
+    background-color: black;
+    color: blue;
+    padding: 5px;
+}
